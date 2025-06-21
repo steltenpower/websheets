@@ -41,3 +41,5 @@ Add a request to Vivaldi, a web browser high on tab functionality: https://forum
 
 blank editable sheet (might be parsed, so see source): data:text/html, <html contenteditable>
 
+When you also in some cases use Jupyter instead of word processors and Orange data mining instead of spreadsheets, we can somewhat get out of the vendor lock-in towards a more healthy diverse digital ecosystem
+
