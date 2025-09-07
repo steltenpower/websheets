@@ -16,7 +16,7 @@ Same question for
 
 <pre> data:text/html, <html contenteditable> </pre>
 
-type of content
+type of content (bummer: data URLs stopped working: https://blog.mozilla.org/security/2017/11/27/blocking-top-level-navigations-data-urls-firefox-59/ )
 
 and can you have a save-to-URL after editing ?
 
