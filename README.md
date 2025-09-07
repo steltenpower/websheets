@@ -14,9 +14,9 @@ Can you stop the reload on switch-to-tab that sometimes happens? (as that would 
 
 Same question for
 
-<pre> data:text/html, <html contenteditable> </pre>
+<pre> data:text/html, &lt;html contenteditable&gt; </pre>
 
-type of content (bummer: data URLs stopped working: https://blog.mozilla.org/security/2017/11/27/blocking-top-level-navigations-data-urls-firefox-59/ )
+But, wasn't this supposed to stop working?: https://blog.mozilla.org/security/2017/11/27/blocking-top-level-navigations-data-urls-firefox-59/
 
 and can you have a save-to-URL after editing ?
 
